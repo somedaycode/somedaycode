@@ -1,9 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&width=75&height=50&section=header&text=😮Yo!%20Nice%20to%20see%20you!&fontSize=20&animation=twinkling)
 
+## 회고
+- [2021년 회고](https://somedaycode.tistory.com/1)
+
+
+## 기술 아티클
+- [댓글 모듈 레거시 걷어내기 with TDD](https://zuminternet.github.io/zum-comment-component/)
+
+
 ## Work Experience
 **[줌인터넷](https://zuminternet.com/)**
 - 2021.11 - 현재
-
 
 
 
