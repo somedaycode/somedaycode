@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&width=75&height=50&section=header&text=😮Yo!%20Nice%20to%20see%20you!&fontSize=20&animation=twinkling)
 
+#### 기술 스택
+- Vue, Nest.js
+
 #### 회고
 - [2021년 회고](https://somedaycode.tistory.com/1)
 
