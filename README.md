@@ -36,6 +36,7 @@
 - 프론트엔드 마스터즈 과정
 
 ---
+![Email](https://img.shields.io/badge/somedaycode@gmail.com-blue?logo=messenger&logoColor=fff)
 
 ![somedaycode's github stats](https://github-readme-stats.vercel.app/api?username=somedaycode&show_icons=true)
 
