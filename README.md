@@ -40,3 +40,7 @@
 - 2021.01 - 2021.06
 - 프론트엔드 마스터즈 과정
 
+---
+
+![somedaycode's github stats](https://github-readme-stats.vercel.app/api?username=somedaycode&show_icons=true)
+
