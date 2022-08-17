@@ -14,15 +14,11 @@
 
 
 
-
-
 ----
 #### Work Experience
 **[줌인터넷](https://zuminternet.com/)**
 - 2021.11 - 현재
 
-
-<br>
 
 #### Acitivy
 **[코드스쿼드](https://codesquad.kr/) (부트캠프)**
@@ -33,7 +29,6 @@
 2022.04 - 2022.06
 - 코드스쿼드(2022) 마스터즈 과정 **리뷰어**
 
-<br>
 
 #### Education
 **[코드스쿼드](https://codesquad.kr/) (부트캠프)**
