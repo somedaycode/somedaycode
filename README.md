@@ -18,9 +18,10 @@
 #### Work Experience
 
 **[카카오페이](https://kakaopay.com/)**
+- 2023.01 - 현재
 
 **[줌인터넷](https://zuminternet.com/)**
-- 2021.11 - 2022.01
+- 2021.11 - 2023.01
 
 
 #### Activity
