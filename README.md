@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&width=75&height=50&section=header&text=😮Yo!%20Nice%20to%20see%20you!&fontSize=20&animation=twinkling)
 
 #### 기술 스택
-- Vue, Nest.js
+- React, Vue NextJS,NestJS
 
 #### 회고
 - [2021년 회고](https://somedaycode.tistory.com/1)
@@ -17,8 +16,11 @@
 
 ----
 #### Work Experience
+
+**[카카오페이](https://kakaopay.com/)**
+
 **[줌인터넷](https://zuminternet.com/)**
-- 2021.11 - 현재
+- 2021.11 - 2022.01
 
 
 #### Activity
